@@ -35,10 +35,6 @@ The main objectives of this project are:
 6. Tune the classification threshold.
 7. Select the best model for future transaction prediction.
 
-## Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## Machine Learning Models
 
 The following models were evaluated:
