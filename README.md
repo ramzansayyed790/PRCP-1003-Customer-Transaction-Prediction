@@ -72,6 +72,10 @@ Since the target variable is imbalanced, accuracy alone was not considered suffi
 | HistGradientBoosting (Default) | 0.9144 | 0.8039 | 0.1958 | 0.3149 | 0.8813 | 0.5545 |
 | HistGradientBoosting (Tuned) | 0.9028 | 0.5152 | 0.5488 | 0.5314 | 0.8813 | 0.5545 |
 
+## ROC Curve
+
+![ROC Curve](<ROC Curve.png>)
+
 ## Best Model
 
 HistGradientBoosting was selected as the best production candidate after threshold tuning.
@@ -85,6 +89,10 @@ This improved the model performance for identifying potential customers:
 - F1 Score: **0.5314**
 
 The tuned model provides a better balance between precision and recall compared with the default threshold.
+
+## Precision-Recall Curve
+
+![Precision-Recall Curve](<Precision-Recall Curve.png>)
 
 ## Key Challenge
 
