@@ -59,6 +59,10 @@ The models were evaluated using:
 
 Since the target variable is imbalanced, accuracy alone was not considered sufficient for model selection.
 
+## Confusion Matrix
+
+![Confusion Matrix](<Confusion Matrix.png>)
+
 ## Model Comparison
 
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC | PR-AUC |
